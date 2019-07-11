@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Niamul Islam
+**Full Stack Web App Developer**
 
-You can use the [editor on GitHub](https://github.com/niamulislam/niamulislam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey there,
+I'm a full stack web app developer and working in this field since 2014. Basically I love to work with PHP, Laravel, Wordpress, React, Angular, NodeJS, Python, Django & MysQL. I'm also expert in HTML, CSS, jQuery/JS. Beside this, I'm a server administrator, I can secure your Ubuntu server and setup Apache/Nginx. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To check details about me, you can visit my website here. [niamul.me](https://niamul.me)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niamulislam/niamulislam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for reading this.
